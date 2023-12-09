@@ -3,7 +3,6 @@
 ## 👋 Sobre mim
 Olá! Eu sou Wellington Ramos, um(a) desenvolvedor(a) apaixonado(a) por tecnologia. Minha paixão é criar soluções inovadoras e aprender constantemente.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtondev-senior&show_icons=true&theme=transparent)
 
 ## 🚀 Tecnologias
 <div style="display: inline_block"><br>
@@ -33,7 +32,9 @@ Estou focado(a) em aprimorar meus conhecimentos em [tecnologia ou linguagem espe
 - Sempre em busca de novos desafios e oportunidades de aprendizado.
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtondev-senior&show_icons=true&theme=transparent)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wellingtondev-senior&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ## 📈 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuário&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtondev-senior&layout=compact&theme=radical)
