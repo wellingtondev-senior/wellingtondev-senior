@@ -3,7 +3,7 @@
 ## 👋 Sobre mim
 Olá! Eu sou Wellington Ramos, um(a) desenvolvedor(a) apaixonado(a) por tecnologia. Minha paixão é criar soluções inovadoras e aprender constantemente.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtondev-senior&show_icons=true&theme=transparent)
 
 ## 🚀 Tecnologias
 <div style="display: inline_block"><br>
