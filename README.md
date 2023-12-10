@@ -22,7 +22,17 @@ Oi, sou Wellington Ramos, um entusiasta da programação que se diverte transfor
   <img align="center" alt="wellingtondev-nextjs"  src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" alt="wellingtondev-dart"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="wellingtondev-Flutter"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</div>
+  </div>
+ <img align="center" alt="wellingtondev-electron"  src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
+ </div>
+
+## 💎 Serviços e integrações
+ <img align="center" alt="wellingtondev-docker"  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+ <img align="center" alt="wellingtondev-googlecloud"  src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="wellingtondev-aws"  src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="wellingtondev-firebase"  src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+   <img align="center" alt="wellingtondev-meta"  src="https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white">
+ </div>
 
 ## 🌱 Minha Abordagem Tecnológica
 Minha jornada tecnológica é marcada por uma stack diversificada e apaixonada por resolver problemas. No frontend, adoro trabalhar com Next.js e React, criando interfaces intuitivas que proporcionam uma experiência agradável aos usuários. No mundo mobile, sou fascinado pelo Flutter, que me permite construir aplicativos incríveis que funcionam perfeitamente em dispositivos iOS e Android.
