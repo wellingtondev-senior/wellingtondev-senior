@@ -4,7 +4,7 @@
 Oi, sou Wellington Ramos, um entusiasta da programação que se diverte transformando linhas de código em soluções incríveis. Ao longo dos anos, construí minha jornada em desenvolvimento de software, explorando diversas tecnologias e ambientes desafiadores.
 
 ## 📊 Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtondev-senior\&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtondev-senior\&rank_icon=github&theme=transparent)
 
 
 
