@@ -23,8 +23,8 @@ Oi, sou Wellington Ramos, um entusiasta da programação que se diverte transfor
   <img align="center" alt="wellingtondev-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
-## 🌱 Atualmente aprendendo
-Estou focado(a) em aprimorar meus conhecimentos em [tecnologia ou linguagem específica].
+## 🌱 Minha Abordagem Tecnológica
+Minha jornada tecnológica é marcada por uma stack diversificada e apaixonada por resolver problemas. No frontend, adoro trabalhar com Next.js e React, criando interfaces intuitivas que proporcionam uma experiência agradável aos usuários. No mundo mobile, sou fascinado pelo Flutter, que me permite construir aplicativos incríveis que funcionam perfeitamente em dispositivos iOS e Android.
 
 ## 💻 Projetos
 - [Projeto 1](link_do_projeto_1): Descrição breve do projeto.
@@ -33,6 +33,15 @@ Estou focado(a) em aprimorar meus conhecimentos em [tecnologia ou linguagem espe
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/wellingtonrm/)
 - [Whatsapp](https://wa.me/qr/RLLQKPAXRVTNM1)
+<div> 
+
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ## ⚡ Curiosidades
 - Sou viciado(a) em café ☕
