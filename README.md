@@ -22,11 +22,12 @@ Oi, sou Wellington Ramos, um entusiasta da programação que se diverte transfor
   <img align="center" alt="wellingtondev-nextjs"  src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" alt="wellingtondev-dart"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="wellingtondev-Flutter"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  </div>
- <img align="center" alt="wellingtondev-electron"  src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
+  
+  <img align="center" alt="wellingtondev-electron"  src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
  </div>
 
 ## 💎 Serviços e integrações
+<div style="display: inline_block"><br>
  <img align="center" alt="wellingtondev-docker"  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
  <img align="center" alt="wellingtondev-googlecloud"  src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img align="center" alt="wellingtondev-aws"  src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
