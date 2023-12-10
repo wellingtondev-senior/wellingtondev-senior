@@ -12,7 +12,7 @@ Oi, sou Wellington Ramos, um entusiasta da programação que se diverte transfor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtondev-senior&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="wellingtondev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="wellingtondev-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="wellingtondev-codeignite" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
   <img align="center" alt="wellingtondev-laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="wellingtondev-nodejs"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
