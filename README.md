@@ -38,9 +38,11 @@ Oi, sou Wellington Ramos, um entusiasta da programação que se diverte transfor
 ## 🌱 Minha Abordagem Tecnológica
 Minha jornada tecnológica é marcada por uma stack diversificada e apaixonada por resolver problemas. No frontend, adoro trabalhar com Next.js e React, criando interfaces intuitivas que proporcionam uma experiência agradável aos usuários. No mundo mobile, sou fascinado pelo Flutter, que me permite construir aplicativos incríveis que funcionam perfeitamente em dispositivos iOS e Android.
 
-## 💻 Projetos
-- [Projeto 1](link_do_projeto_1): Descrição breve do projeto.
-- [Projeto 2](link_do_projeto_2): Descrição breve do projeto.
+## 💻 Projetos NPM
+- [Passwordg](https://github.com/wellingtondev-senior/passwordg.git): Gerador de password.
+
+## 💻 Projetos Repositorios
+- [Cityuser](https://cityuser.com.br): Aplicação com objetivo de monitorar alagamento em pontos da cidade de Assis - SP.
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/wellingtonrm/)
