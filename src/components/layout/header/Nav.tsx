@@ -31,8 +31,8 @@ const Nav = ({ className, open }: NavProps) => {
             </Menu.Lista>
             <div className="md:hidden w-full">
                 <Button onClick={() => {
-                    location.href = "https://app.blackconversa.com/login"
-                }} className="py-[20px] w-full border border-[#3f2958] [background-image:radial-gradient(60%_50%_at_50%_50%,_#10011A_0%,_#17022D_100%)]">LOGIN</Button>
+                    // location.href = "https://app.blackconversa.com/login"
+                }} className="w-full py-[20px] border border-[#2188A2] [background-image:radial-gradient(60%_50%_at_50%_50%,_#185867_0%,_#126F85_100%)]">PORTFÓLIO</Button>
             </div>
         </Menu.Root>
     );

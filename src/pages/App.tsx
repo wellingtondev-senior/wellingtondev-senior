@@ -9,7 +9,7 @@ import Footer from "../components/layout/footer"
 function App() {
 
   return (
-    <main className="w-full h-auto bg-[#0F0019]">
+    <main className="w-full h-auto bg-[#05B2C2]">
       <Header />
       <Home id="home" />
       {/* <Sobre id="sobre" />
